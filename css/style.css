@@ -1,0 +1,46 @@
+.logo{
+    height: 75px;
+    width: 285px;
+
+}
+.menu-bar{
+    margin-bottom:0px;
+    border-radius: 0px;
+    padding: 15px 0px;
+    
+}
+.slider{
+    margin-bottom: 100px;
+}
+
+.myfooter{
+    background-color: #001e5f;
+    color:#a96c07 ;
+    padding-bottom: 45px;
+}
+
+.location{
+    color: #8ec345 ;
+    text-align: center;
+}
+.content1{
+    text-align: center;
+    
+}
+.para{
+    color: white;
+}
+.plan-row{
+    text-align: center;
+    margin-bottom:30px;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+.plan-cont{
+    margin-bottom:70px;
+}
+.flags{
+    display:flex;
+    align-content: center;
+}
